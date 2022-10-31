@@ -78,7 +78,7 @@ h3{ color:#4FA095;
 .java{
     border-radius:100%;
     position:relative;
-    left:20px;
+    left:15px;
 }
 .iem{
     border-radius: 100%;
@@ -127,4 +127,9 @@ h3{ color:#4FA095;
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+  }
+@media only screen and (max-width: 500px) {
+    html{
+        width: 700px;
+    }
   }
