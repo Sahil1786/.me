@@ -1,4 +1,4 @@
-body{margin: 0%;
+body{margin:0%;
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size:1em;
@@ -8,7 +8,7 @@ body{margin: 0%;
 hr{
     border:dotted palevioletred 6px;
     border-bottom: none;
-    width: 4%;
+    width:4%;
     margin: 100px auto;
 }
 
