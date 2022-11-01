@@ -128,8 +128,8 @@ h3{ color:#4FA095;
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width:31.25rem) {
     html{
-        width: 700px;
+        width:43.75rem;
     }
   }
